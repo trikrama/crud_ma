@@ -20,5 +20,4 @@ var ListBarang = []DataBarang{
 	{ID: 10, Nama: "Penggaris", Harga: 100, Jumlah: 30},
 	{ID: 11, Nama: "Penggaris", Harga: 100, Jumlah: 30},
 	{ID: 12, Nama: "Penggaris", Harga: 100, Jumlah: 30},
-	{ID: 13, Nama: "Penggaris", Harga: 100, Jumlah: 30},
 }
